@@ -67,7 +67,7 @@ h1{
   border: none;
   background-color: #e4ff92;
   font-size: 7vmin;
-
+  cursor: pointer;
   font-weight: 400;
 }
 .box.o {
