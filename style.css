@@ -62,7 +62,8 @@ h1{
   width: 18vmin;
   border-radius: 12px;
    
-  box-shadow: 0 0 16px rgba(0, 0, 0, 0.2);
+  /* box-shadow: 0 0 16px rgba(0, 0, 0, 0.2); */
+  box-shadow: 7px 7px 10px #a4a8b4,-7px -7px 10px hwb(180 88% 1%);
   border: none;
   background-color: #e4ff92;
   font-size: 7vmin;
